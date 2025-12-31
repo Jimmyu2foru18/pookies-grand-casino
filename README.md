@@ -1,19 +1,14 @@
 # Pookie’s Grand Casino
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Available_-brightgreen)](https://jimmyu2foru18.github.io/pookies-grand-casino/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Deployed-blue)](https://github.com/Jimmyu2foru18/pookies-grand-casino/deployments)
+
 Pookie’s Grand Casino is a browser-based casino-style game built using HTML and client-side assets. 
 The project is inspired by GameHouse’s *Casino Island To Go* and is designed to deliver a classic casino look and feel through card graphics, table visuals, 
 and a simple web interface.
 
 This repository contains all front-end files and assets required to run the game directly in a modern web browser. 
 No backend or server configuration is required.
-
----
-
-## Live Demo
-
-A live version of the game is available via GitHub Pages:
-
-https://jimmyu2foru18.github.io/pookies-grand-casino/
 
 ---
 
